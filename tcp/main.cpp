@@ -6,5 +6,5 @@ int main(int argc, char *argv[])
 
     return a.exec();
 	int a=0;
-	
+	int c=1;
 }
